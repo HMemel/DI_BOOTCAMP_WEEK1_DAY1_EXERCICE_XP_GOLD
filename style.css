@@ -1,0 +1,93 @@
+/* Container */
+*{
+    margin: 0;
+    padding: 0;
+}
+/* Navbar */
+.navbar{
+    margin-left: 10em;
+}
+.logo_{
+    font-size: 20px;
+}
+.btn-signin{
+    background-color: #0091ff ;
+    width: 80px;
+    height: 30px;
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-left: 72em;
+}
+/* Header */
+#bg_imgs{
+    background-image: url("./images/bg_imgs.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 35vw;
+}
+.bg_imgs{
+    text-align: center;
+    padding: 10em;
+}
+.infos_{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #ffffff;
+    font-weight: 500px;
+    font-size: 50px;
+    padding-bottom: 20px;
+}
+#email{
+    border: none;
+    border-radius:5px;
+    width: 30vw;
+    height: 35px;
+    padding-left: 25px;
+    
+}
+.btn-singup{
+    background-color: #0091ff;
+    color: #ffffff;
+    border: none;
+    width: 80px;
+    height: 34.5px;
+    border-radius: 3px;
+    font-size: 15px;
+    padding: 5px;
+    position: relative;
+    left: 5px;
+}
+
+/* Icons */
+.icons{
+    text-align: center;
+}
+i{
+    color: blue;
+    margin-bottom: 10px;
+}
+.fully_respo{
+    position: absolute;
+    top: 39em;
+    left: 12em;
+    padding-bottom: 60px;
+}
+.bootstrap_{
+    position: absolute;
+    top: 39em;
+    left: 41em;
+}
+.easy_{
+    position: absolute;
+    top: 39em;
+    left: 70em;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    color: #403f3d;
+    font-size: 15px;
+    margin-top: 5px;
+}
